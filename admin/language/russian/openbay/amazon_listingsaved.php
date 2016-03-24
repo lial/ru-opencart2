@@ -14,5 +14,5 @@ $_['text_complete']           		= 'Списки загружены';
 $_['column_name']              		= 'Имя';
 $_['column_model']             		= 'Модель';
 $_['column_sku']               		= 'Артикул';
-$_['column_amazon_sku']        		= 'Аотикул Amazon';
+$_['column_amazon_sku']        		= 'Артикул Amazon';
 $_['column_action']           		= 'Действие';

@@ -20,7 +20,7 @@ $_['entry_title']       = 'Наименование класса';
 $_['entry_description'] = 'Описание';
 $_['entry_rate']        = 'Размер налоговой ставки';
 $_['entry_based']       = 'На основе';
-$_['entry_geo_zone']    = 'Регион';
+$_['entry_geo_zone']    = 'Геозона';
 $_['entry_priority']    = 'Приоритет';
 
 // Error
